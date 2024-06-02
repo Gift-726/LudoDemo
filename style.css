@@ -1,0 +1,42 @@
+body {
+    font-size: 15pt;
+}
+table tr td{
+border: 1.5px black solid;
+}
+
+table{
+  height: 500px;
+  width: 500px;
+  text-align: center;
+}
+table{
+  border-collapse: collapse;
+}
+
+table tr {
+  width: 10%;
+}
+tr{
+  width: 10%;
+}
+
+.yellow{
+  background-color: red;
+}
+
+.red{
+  background-color: lightcoral;
+}
+
+.green{
+  background-color: skyblue;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.sty{
+  background: linear-gradient(to right,#fff, lightblue, #aaa)
+}
